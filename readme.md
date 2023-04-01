@@ -31,6 +31,6 @@ Screenshots
 ![](/screenshoots/gradioapp1.png)
 
 
-## AUTHER
+## AUTHOR
 
 - BERNARD AMPOMAH []()
