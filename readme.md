@@ -20,7 +20,7 @@ You can then run the app (still at the repository root):
 
 RUN APP.
     
-    gradio src/Gradio_app.py
+    python Gradio_app.py
     
 
 With inbrowser = True defined, it should open a browser tab automatically. If it doesn't, type this address in your browser: http://127.0.0.1:7860/
